@@ -1,5 +1,5 @@
-### Hi! I'm Eni 👋
-# 💫 About Me:
+# Hi! I'm Eni 👋
+### About Me:
 📚 I'm currently studying for my Master's in Business Analytics<br>👩🏽‍💻 Strong background in Machine Learning primarily programming in R and Python<br>📊 I also have experience visualising in Tableau and KNIME.<br>💌 Contact me on eniolaoduntan@gmail.com
 
 
