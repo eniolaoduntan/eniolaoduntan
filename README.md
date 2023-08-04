@@ -1,4 +1,4 @@
-# https://media.giphy.com/media/oBYB0gqUy3xxBf89aT/giphy.gif Hi! I'm Eni 👋
+# ![giphy](https://github.com/eniolaoduntan/eniolaoduntan/assets/105388180/10c07209-f8a8-4e30-a54d-dbefa9be530c) Hi! I'm Eni 👋
 ### About Me:
 📚 I'm currently studying for my Master's in Business Analytics<br>👩🏽‍💻 Strong background in Machine Learning primarily programming in R and Python<br>📊 Experience visualising large data sets in Tableau and KNIME.<br>💌 Contact me on eniolaoduntan@gmail.com
 
