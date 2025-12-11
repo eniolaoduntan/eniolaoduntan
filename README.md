@@ -1,7 +1,7 @@
 ![giphy](https://github.com/eniolaoduntan/eniolaoduntan/assets/105388180/10c07209-f8a8-4e30-a54d-dbefa9be530c) 
 # Hi! I'm Eni 👋
 ## 💫 About Me:
-📚 Master's in Business Analytics<br>👩🏽‍💻 Strong background in computational statistics and linguistics with experience working with Python, SQL and R<br>🔭 I’m currently building my knowledge on NLP and GenAI<br>📈 Adept in Predictive Analytics, Conjoint Analysis, Cluster Analysis, Principal Component Analysis and Text Mining<br>📊 Experience visualising large data sets in Tableau and KNIME<br>💌 Contact me on eniolaoduntan@gmail.com
+📚 Master's in Business Analytics<br>👩🏽‍💻 Background in computational statistics and linguistics with experience working with Python, SQL and R<br>🔭 Specialise in building my knowledge on NLP and GenAI solutions<br>📈 Adept in Predictive Analytics, Conjoint Analysis, Cluster Analysis, Principal Component Analysis and Text Mining<br>📊 Experience visualising large data sets in Tableau and KNIME<br>💌 Contact me on eniolaoduntan@gmail.com
 
 
 ## 🌐 Socials:
